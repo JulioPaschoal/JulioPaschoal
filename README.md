@@ -4,6 +4,8 @@
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/julio.paschoal.1)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juliocpaschoal/)
   [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-cezar-paschoal-371236143/)
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulioPaschoal&show_icons=true&bg_color=00000000)
 
 
 ## Tecnologias que eu uso no meu dia
