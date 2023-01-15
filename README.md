@@ -1,10 +1,10 @@
 ## Olá! Eu sou o Julio Paschoal 🖐️
 
-<div style="display: inline_block">
+
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/julio.paschoal.1)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juliocpaschoal/)
   [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-cezar-paschoal-371236143/)
-</div><br/>
+
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block">
